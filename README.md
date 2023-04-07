@@ -1,6 +1,5 @@
-### Seja Bem-Vindo!
+## Seja Bem-Vindo!
 
-<br>
 
 > Formado em Ciência da Computação pelo IFSP</li>
 

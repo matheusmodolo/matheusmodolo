@@ -41,4 +41,4 @@
 
 ##
 
-![Snake animation](https://github.com/matheusmodolo/matheusmodolo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/matheusmodolo/matheusmodolo/blob/main/github-contribution-grid-snake.svg)

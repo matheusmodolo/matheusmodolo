@@ -41,3 +41,4 @@
 
 ##
 
+![Snake animation](https://github.com/matheusmodolo/matheusmodolo/blob/main/.github/workflows/snake.yml)

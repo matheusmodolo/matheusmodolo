@@ -40,5 +40,3 @@
 </div>
 
 ##
-
-![Snake animation](https://github.com/matheusmodolo/matheusmodolo/blob/main/github-contribution-grid-snake.svg)

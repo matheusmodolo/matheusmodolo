@@ -1,13 +1,15 @@
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Seja Bem-Vindo!
+
+<br>
+
+> Formado em Ciência da Computação pelo IFSP</li>
+
+> Desenvolvedor Front-End</li>
+
+> Atualmente estou me aprofundando em JavaScript</li>
+
+
+<br>
 <div align="center">
   <a href="https://github.com/matheusmodolo">
     <img height = "180em" align="center" src="https://github-readme-stats.vercel.app/api?username=matheusmodolo&hide=contribs&show_icons=true&theme=dark" />
@@ -18,7 +20,7 @@
 </div>
 <br>
 <br>
-<div style="display: inline-block" align="center">
+<div align="center">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -37,4 +39,11 @@
   <a href="mailto:matheusnm28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-neves-módolo/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://linktr.ee/nevesmatheus"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
+</div>
+
+<br>
+<br>
+  
+<div align="center">
+  <img src="https://media2.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e476u6h6wl89cr7bzb8core5p7bs3btse38n1xelsuk&rid=giphy.gif&ct=g">
 </div>

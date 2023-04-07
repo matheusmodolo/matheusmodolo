@@ -38,7 +38,3 @@
   <a href="https://www.linkedin.com/in/matheus-neves-módolo/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://linktr.ee/nevesmatheus"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
 </div>
-
-##
-  
-![Snake Game](https://github.com/matheusmodolo/matheusmodolo/blob/output/github-contribution-grid-snake.svg)

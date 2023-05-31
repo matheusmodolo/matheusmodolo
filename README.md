@@ -48,6 +48,6 @@
 <br>
 <br>
   
-<div align="center">
+<!-- <div align="center">
   <img src="https://media2.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e476u6h6wl89cr7bzb8core5p7bs3btse38n1xelsuk&rid=giphy.gif&ct=g">
-</div>
+</div> -->

@@ -5,7 +5,7 @@
 
 > Desenvolvedor Front-End</li>
 
-> Atualmente estou me aprofundando em JavaScript</li>
+> Me aprofundando em JavaScript</li>
 
 
 <br>

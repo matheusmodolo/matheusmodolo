@@ -5,7 +5,7 @@
 
 > Desenvolvedor Front-End</li>
 
-> Estudando Ecmascript</li>
+> Estudando Ajax</li>
 
 
 <br>

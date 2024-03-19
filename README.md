@@ -5,7 +5,7 @@
 
 > Desenvolvedor Front-End</li>
 
-> Estudando Ajax</li>
+> Estudando Node</li>
 
 
 <br>

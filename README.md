@@ -53,5 +53,5 @@
 </div> -->
 
 <div align="center">
-  <a href="https://matheusmodolo.github.io/portifolio/">Portifólio</a>
+  <a href="https://matheusmodolo.github.io/portifolio/" target="_blank">Portifólio</a>
 </div>

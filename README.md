@@ -1,14 +1,13 @@
 ## Seja Bem-Vindo!
 
-
 > Formado em Ciência da Computação pelo IFSP</li>
 
-> Desenvolvedor Front-End</li>
+> Desenvolvedor Full Stack</li>
 
-> Estudando Node.js</li>
+> Estudando Laravel</li>
 
 
-<br>
+<br/>
 <div align="center">
   <a href="https://github.com/matheusmodolo">
     <img height = "180em" align="center" src="https://github-readme-stats.vercel.app/api?username=matheusmodolo&hide=contribs&show_icons=true&theme=dark" />
@@ -17,8 +16,8 @@
     <img height = "180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmodolo&theme=dark&exclude_repo=github-readme-stats,matheusmodolo.github.io&langs_count=6&layout=compact" />
   </a>
 </div>
-<br>
-<br>
+<br/>
+<br/>
 <div align="center">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -45,8 +44,8 @@
   <a href="https://linktr.ee/nevesmatheus"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
 </div>
 
-<br>
-<br>
+<br/>
+<br/>
   
 <!-- <div align="center">
   <img src="https://media2.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e476u6h6wl89cr7bzb8core5p7bs3btse38n1xelsuk&rid=giphy.gif&ct=g">

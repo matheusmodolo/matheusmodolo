@@ -13,7 +13,7 @@
     <img height = "180em" align="center" src="https://github-readme-stats.vercel.app/api?username=matheusmodolo&hide=contribs&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/matheusmodolo">
-    <img height = "180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmodolo&theme=dark&exclude_repo=github-readme-stats,matheusmodolo.github.io&langs_count=6&layout=compact" />
+    <img height = "180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmodolo&theme=dark&exclude_repo=Projetos-Ciencia-da-Computacao,matheusmodolo&langs_count=6&layout=compact" />
   </a>
 </div>
 

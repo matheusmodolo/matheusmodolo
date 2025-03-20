@@ -13,18 +13,22 @@ Olá! Meu nome é **Matheus**, sou um profissional apaixonado por tecnologia e i
 - **Objetivos e Interesses:**  
   Estou sempre em busca de desafios que me permitam crescer e evoluir, seja através de projetos pessoais ou em colaborações profissionais. Além da programação, também tenho interesse em design, o que me ajuda a criar interfaces intuitivas e agradáveis para os usuários.
 
-Sinta-se à vontade para explorar meus projetos e conectar-se comigo para trocar experiências e ideias!
+Sinta-se à vontade para explorar meus projetos e conectar-se comigo para trocar experiências e ideias!\
+\
+<a href="https://matheusmodolo.github.io/portifolio/" target="_blank" style="background-color: white; padding: 10 px 20 px; border-radius: 5 px; text-decoration: none;">
+  Visitar Portfólio
+</a>
+
 
 ## Estatísticas do GitHub
-<div align="center">
-  <a href="https://github.com/matheusmodolo">
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <a href="https://github.com/matheusmodolo" style="margin: 2 rem; padding: 2 rem;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmodolo&hide=contribs&show_icons=true&theme=dark" />
   </a>
-  <a href="https://github.com/matheusmodolo">
+  <a href="https://github.com/matheusmodolo" style="margin: 2 rem; padding: 2 rem;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmodolo&theme=dark&exclude_repo=Projetos-Ciencia-da-Computacao,matheusmodolo&langs_count=6&layout=compact" />
   </a>
 </div>
-
 
 
 ## Tecnologias
@@ -48,7 +52,6 @@ Sinta-se à vontade para explorar meus projetos e conectar-se comigo para trocar
 </div>
 
 
-
 ## Contato
 <div align="center">
   <a href="https://linkedin.com/in/matheus-neves-modolo" target="_blank">
@@ -62,14 +65,5 @@ Sinta-se à vontade para explorar meus projetos e conectar-se comigo para trocar
   </a>
   <a href="mailto:matheusnm28@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-
-
-## Portfólio
-<div align="center">
-  <a href="https://matheusmodolo.github.io/portifolio/" target="_blank" style="background-color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
-    Visitar Portfólio
   </a>
 </div>

@@ -4,7 +4,7 @@
 
 > Desenvolvedor Full Stack</li>
 
-> Estudando Laravel</li>
+> Atualmente Estudando **[Laravel]([https://github.com/hugosimoesdev/resume.dev](https://github.com/matheusmodolo/Desenvolvimento-Web-com-PHP-Laravel-e-Vue.JS))**</li>
 
 
 <br/>
